@@ -1,6 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macoto5636&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macoto5636&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=macoto5636&theme=radical&show_icons=true" />
+</p>
 <!--
 **macoto5636/macoto5636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
